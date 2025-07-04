@@ -1,2 +1,1 @@
-Hyper Parameter tuning for NN using keras tuner
- 
+Some very basic projects on ML 
